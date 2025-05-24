@@ -92,7 +92,8 @@ export default function Banner() {
 <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/3.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/new/bg2.webp)" }}
+                  // style={{ backgroundImage: "url(./assets/images/allimgs/banner/3.webp)" }}
                 />
               
                 <div className="container">
@@ -208,7 +209,8 @@ export default function Banner() {
 <SwiperSlide className="swiper-slide">
                 <div
                   className="main-slider__bg"
-                  style={{ backgroundImage: "url(./assets/images/allimgs/banner/7.webp)" }}
+                  style={{ backgroundImage: "url(./assets/images/allimgs/new/bg1.webp)" }}
+                  // style={{ backgroundImage: "url(./assets/images/allimgs/banner/7.webp)" }}
                 />
               
                 <div className="container">

@@ -80,7 +80,8 @@ export default function Blog() {
                     <div className="blog-two__single">
                         <div className="blog-two__img-box">
                         <div className="blog-two__img">
-                            <img src="./assets/images/allimgs/service/1.webp" alt="" />
+                            <img src="./assets/images/allimgs/new/Manpower.webp" alt="" />
+                            {/* <img src="./assets/images/allimgs/service/1.webp" alt="" /> */}
                         </div>
                         {/* <div className="blog-two__date">
                             <p>
